@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Pathplan/Pathplan.vcxproj" />
+  <Project Path="Pathplan/Pathplan.vcxproj" Id="cb0c1d07-cd90-4e79-8cd7-0c8b80e35f8a" />
 </Solution>
